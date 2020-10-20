@@ -7,8 +7,6 @@
 
 import Foundation
 
-
-
 struct ArrayHelper {
     
     /// Remove elements using indexes array
